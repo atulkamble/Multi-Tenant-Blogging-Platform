@@ -1,5 +1,3 @@
-Here’s the detailed implementation of the **Multi-Tenant Blogging Platform** project with full code, step-by-step instructions, and setup guidelines.
-
 ---
 
 ### **Step 1: Create an Azure Resource Group**
@@ -176,4 +174,4 @@ Azure Functions handle serverless logic, such as comment moderation and analytic
 3. **Submit Comments:** Use an HTTP client like Postman to test the comment moderation function.
 4. **Verify CDN:** Load static content via the Azure CDN endpoint.
 
-This project provides a fully scalable, secure, and serverless multi-tenant blogging platform. Let me know if you need further customization!
+This project provides a fully scalable, secure, and serverless multi-tenant blogging platform. 
